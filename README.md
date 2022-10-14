@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MinooAlimohamadi
+- 👋 Hi, I’m Minoo Alimohamadi
 - 👀 I’m interested in NopCommerce CMS
 - 💞️ I’m looking to collaborate on .Net Projects
 - 📫 How to reach me ?
